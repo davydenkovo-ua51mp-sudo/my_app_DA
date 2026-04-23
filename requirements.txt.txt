@@ -7,3 +7,4 @@ numpy
 plotly.express
 sklearn.linear_model
 sklearn.cluster
+matplotlib
